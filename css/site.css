@@ -1,0 +1,19 @@
+html {
+  background-color: dimgray;
+  font-size: 12pt;
+  padding: 2em;
+}
+
+body {
+  background-color: #fffff8;
+  color: black;
+  font-family: "Noto Sans", sans-serif;
+  min-height: 0.8vh;
+  padding: 1rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: purple;
+  font-family: "Book Antiqua", serif;
+}
+
